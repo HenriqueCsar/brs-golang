@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-//Basic system of cadastra
+//basic registration system
 
 func main() {
 	f, err := os.Create("dados.txt")
